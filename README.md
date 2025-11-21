@@ -24,3 +24,9 @@ Este projeto foi desenvolvido para praticar conceitos de **React** e estilizaç�
 - **HTML5**
 
 ---
+
+## 📂 Estrutura de Ficheiros
+
+Uma visão rápida de como o projeto está organizado:
+
+futurenet/ ├── public/ │ └── db.json # Base de dados simulada (API) ├── src/ │ ├── components/ # Componentes reutilizáveis (Header, Cards, Modal) │ ├── App.jsx # Lógica principal e gestão de estado │ ├── main.jsx # Ponto de entrada da aplicação │ └── index.css # Estilos globais e Tailwind └── index.html
