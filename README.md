@@ -30,3 +30,9 @@ Este projeto foi desenvolvido para praticar conceitos de **React** e estilizaç�
 Uma visão rápida de como o projeto está organizado:
 
 futurenet/ ├── public/ │ └── db.json # Base de dados simulada (API) ├── src/ │ ├── components/ # Componentes reutilizáveis (Header, Cards, Modal) │ ├── App.jsx # Lógica principal e gestão de estado │ ├── main.jsx # Ponto de entrada da aplicação │ └── index.css # Estilos globais e Tailwind └── index.html
+
+## 🤝 Integrantes
+
+Guilherme de Melo Sorrilha - RM: 563825
+Guilherme Rodrigues de Andrade – RM: 565863
+Gusthavo Costa de Melo – RM: 561330
