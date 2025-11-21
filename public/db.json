@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/300?img=1",
+    "cargo": "Engenheira de Software",
+    "resumo": "Desenvolvedora Full Stack apaixonada por React e arquitetura limpa.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript", "AWS"],
+    "softSkills": ["Comunicação", "Liderança", "Mentoria"],
+    "experiencias": [
+      { "empresa": "Tech Corp", "cargo": "Senior Dev", "inicio": "2021", "fim": "Atual", "descricao": "Liderança de squads." },
+      { "empresa": "StartInova", "cargo": "Pleno Dev", "inicio": "2019", "fim": "2021", "descricao": "Frontend web." }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "USP", "ano": "2018" }],
+    "projetos": [{ "titulo": "E-commerce V2", "link": "#", "descricao": "Refatoração total do checkout." }],
+    "certificacoes": ["AWS Solutions Architect"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Arquitetura de Software", "Mentoria"]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Costa",
+    "foto": "https://i.pravatar.cc/300?img=11",
+    "cargo": "UX Designer",
+    "resumo": "Designer focado em acessibilidade e sistemas de design.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "CSS", "Prototipagem"],
+    "softSkills": ["Empatia", "Colaboração", "Criatividade"],
+    "experiencias": [
+      { "empresa": "Design Studio", "cargo": "UX Lead", "inicio": "2020", "fim": "Atual", "descricao": "Design Systems." }
+    ],
+    "formacao": [{ "curso": "Design Gráfico", "instituicao": "ESPM", "ano": "2019" }],
+    "projetos": [{ "titulo": "App Bancário", "link": "#", "descricao": "Redesign do app mobile." }],
+    "certificacoes": ["Google UX Certificate"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
+    "areaInteresses": ["Acessibilidade", "UI Motion"]
+  },
+  {
+    "id": 3,
+    "nome": "Carla Mendes",
+    "foto": "https://i.pravatar.cc/300?img=5",
+    "cargo": "Cientista de Dados",
+    "resumo": "Especialista em Machine Learning e análise preditiva.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Scikit-learn", "SQL"],
+    "softSkills": ["Pensamento Crítico", "Resolução de Problemas", "Curiosidade"],
+    "experiencias": [
+      { "empresa": "DataInc", "cargo": "Data Scientist", "inicio": "2022", "fim": "Atual", "descricao": "Modelos de churn." }
+    ],
+    "formacao": [{ "curso": "Mestrado em Estatística", "instituicao": "UFMG", "ano": "2021" }],
+    "projetos": [{ "titulo": "Previsão de Vendas", "link": "#", "descricao": "Modelo preditivo para varejo." }],
+    "certificacoes": ["Azure Data Scientist"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["IA", "Big Data"]
+  },
+  {
+    "id": 4,
+    "nome": "Daniel Oliveira",
+    "foto": "https://i.pravatar.cc/300?img=12",
+    "cargo": "Product Manager",
+    "resumo": "PM focado em métricas de produto e growth.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Jira", "SQL", "Amplitude", "Roadmap"],
+    "softSkills": ["Negociação", "Visão Estratégica", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Fintech X", "cargo": "PM Sênior", "inicio": "2019", "fim": "Atual", "descricao": "Gestão do produto de crédito." }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "FGV", "ano": "2015" }],
+    "projetos": [{ "titulo": "Lançamento Cartão", "link": "#", "descricao": "Go-to-market do novo cartão." }],
+    "certificacoes": ["CSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Fintech", "Inovação"]
+  },
+  {
+    "id": 5,
+    "nome": "Eduarda Lima",
+    "foto": "https://i.pravatar.cc/300?img=9",
+    "cargo": "Desenvolvedora Mobile",
+    "resumo": "Apaixonada por Flutter e desenvolvimento nativo.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Flutter", "Dart", "Swift", "Firebase"],
+    "softSkills": ["Autonomia", "Foco", "Trabalho em Equipe"],
+    "experiencias": [
+      { "empresa": "AppHouse", "cargo": "Dev Mobile", "inicio": "2021", "fim": "Atual", "descricao": "Apps para varejo." }
+    ],
+    "formacao": [{ "curso": "Sistemas de Informação", "instituicao": "UFPE", "ano": "2020" }],
+    "projetos": [{ "titulo": "App de Delivery", "link": "#", "descricao": "Clone do UberEats para estudo." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Técnico" }],
+    "areaInteresses": ["Mobile", "IoT"]
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Santos",
+    "foto": "https://i.pravatar.cc/300?img=13",
+    "cargo": "DevOps Engineer",
+    "resumo": "Automatizando tudo com CI/CD e Kubernetes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Docker", "Kubernetes", "AWS", "Terraform"],
+    "softSkills": ["Gestão de Tempo", "Resiliência", "Colaboração"],
+    "experiencias": [
+      { "empresa": "CloudSys", "cargo": "SRE", "inicio": "2020", "fim": "Atual", "descricao": "Manutenção de clusters." }
+    ],
+    "formacao": [{ "curso": "Redes de Computadores", "instituicao": "UTFPR", "ano": "2017" }],
+    "projetos": [{ "titulo": "Pipeline Automatizado", "link": "#", "descricao": "CI/CD com GitHub Actions." }],
+    "certificacoes": ["CKA - Kubernetes Administrator"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Cloud Computing", "Segurança"]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Rocha",
+    "foto": "https://i.pravatar.cc/300?img=10",
+    "cargo": "Tech Recruiter",
+    "resumo": "Conectando os melhores talentos às melhores vagas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["LinkedIn Recruiter", "Triagem", "Entrevista Técnica"],
+    "softSkills": ["Empatia", "Comunicação", "Persuasão"],
+    "experiencias": [
+      { "empresa": "RH Tech", "cargo": "Senior Recruiter", "inicio": "2018", "fim": "Atual", "descricao": "Vagas de tecnologia." }
+    ],
+    "formacao": [{ "curso": "Psicologia", "instituicao": "PUC-SP", "ano": "2016" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Pessoas", "Cultura Organizacional"]
+  },
+  {
+    "id": 8,
+    "nome": "Henrique Martins",
+    "foto": "https://i.pravatar.cc/300?img=14",
+    "cargo": "Analista de Marketing",
+    "resumo": "Especialista em SEO e Marketing de Conteúdo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Google Analytics", "Semrush", "Copywriting"],
+    "softSkills": ["Criatividade", "Organização", "Analítico"],
+    "experiencias": [
+      { "empresa": "Agência Digital", "cargo": "Analista Pleno", "inicio": "2021", "fim": "Atual", "descricao": "Estratégias de inbound." }
+    ],
+    "formacao": [{ "curso": "Publicidade e Propaganda", "instituicao": "UFSC", "ano": "2019" }],
+    "projetos": [{ "titulo": "Blog de Tech", "link": "#", "descricao": "Crescimento de 300% em tráfego." }],
+    "certificacoes": ["Google Ads"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Growth Hacking", "Branding"]
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Ferreira",
+    "foto": "https://i.pravatar.cc/300?img=16",
+    "cargo": "Arquiteta de Software",
+    "resumo": "Desenhando soluções escaláveis e resilientes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Microserviços", "Java", "Kafka", "System Design"],
+    "softSkills": ["Liderança Técnica", "Mentoria", "Visão Sistêmica"],
+    "experiencias": [
+      { "empresa": "Big Bank", "cargo": "Arquiteta", "inicio": "2022", "fim": "Atual", "descricao": "Migração para nuvem." }
+    ],
+    "formacao": [{ "curso": "Engenharia de Computação", "instituicao": "UFRGS", "ano": "2014" }],
+    "projetos": [{ "titulo": "Open Banking", "link": "#", "descricao": "Implementação de APIs seguras." }],
+    "certificacoes": ["TOGAF"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Cloud", "High Performance"]
+  },
+  {
+    "id": 10,
+    "nome": "João Pereira",
+    "foto": "https://i.pravatar.cc/300?img=15",
+    "cargo": "Frontend Developer",
+    "resumo": "Criando interfaces pixel-perfect com Vue.js.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "Nuxt", "Tailwind", "JavaScript"],
+    "softSkills": ["Atenção aos Detalhes", "Trabalho em Equipe", "Proatividade"],
+    "experiencias": [
+      { "empresa": "WebHouse", "cargo": "Dev Frontend", "inicio": "2020", "fim": "2023", "descricao": "Dashboards administrativos." }
+    ],
+    "formacao": [{ "curso": "Análise de Sistemas", "instituicao": "FATEC", "ano": "2019" }],
+    "projetos": [{ "titulo": "Portfolio Pessoal", "link": "#", "descricao": "Site estático com Vue." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Técnico" }],
+    "areaInteresses": ["UX/UI", "Frontend"]
+  },
+  {
+    "id": 11,
+    "nome": "Karina Souza",
+    "foto": "https://i.pravatar.cc/300?img=20",
+    "cargo": "Agile Coach",
+    "resumo": "Facilitando a transformação ágil em grandes empresas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Lean", "Jira"],
+    "softSkills": ["Facilitação", "Resolução de Conflitos", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Consultoria Ágil", "cargo": "Agile Master", "inicio": "2019", "fim": "Atual", "descricao": "Treinamento de times." }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "UFRJ", "ano": "2016" }],
+    "projetos": [],
+    "certificacoes": ["PSM II"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Fluente" }],
+    "areaInteresses": ["Cultura", "Pessoas"]
+  },
+  {
+    "id": 12,
+    "nome": "Lucas Almeida",
+    "foto": "https://i.pravatar.cc/300?img=33",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Construindo pipelines de dados robustos e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Spark", "Hadoop", "Python", "Airflow"],
+    "softSkills": ["Resolução de Problemas", "Organização", "Autodidata"],
+    "experiencias": [
+      { "empresa": "DataLake Corp", "cargo": "Engenheiro Pleno", "inicio": "2021", "fim": "Atual", "descricao": "ETL de grandes volumes." }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "Mackenzie", "ano": "2018" }],
+    "projetos": [{ "titulo": "Data Warehouse", "link": "#", "descricao": "Migração para Snowflake." }],
+    "certificacoes": ["Databricks Certified"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Big Data", "Engenharia"]
+  },
+  {
+    "id": 13,
+    "nome": "Mariana Lima",
+    "foto": "https://i.pravatar.cc/300?img=24",
+    "cargo": "UI Designer",
+    "resumo": "Criando interfaces visuais impactantes e funcionais.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Photoshop", "Illustrator", "Design System"],
+    "softSkills": ["Criatividade", "Estética", "Colaboração"],
+    "experiencias": [
+      { "empresa": "GovTech", "cargo": "UI Designer", "inicio": "2020", "fim": "Atual", "descricao": "Portais governamentais." }
+    ],
+    "formacao": [{ "curso": "Design", "instituicao": "UnB", "ano": "2019" }],
+    "projetos": [{ "titulo": "App Cidadão", "link": "#", "descricao": "Interface do app de serviços." }],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Artes", "Design Gráfico"]
+  },
+  {
+    "id": 14,
+    "nome": "Nicolas Gomes",
+    "foto": "https://i.pravatar.cc/300?img=53",
+    "cargo": "Backend Developer",
+    "resumo": "Especialista em APIs RESTful e microsserviços com Node.js.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Express", "PostgreSQL", "Redis"],
+    "softSkills": ["Foco", "Lógica", "Trabalho em Equipe"],
+    "experiencias": [
+      { "empresa": "Software House", "cargo": "Dev Backend", "inicio": "2021", "fim": "2023", "descricao": "APIs para fintechs." }
+    ],
+    "formacao": [{ "curso": "Engenharia de Software", "instituicao": "Unicamp", "ano": "2020" }],
+    "projetos": [{ "titulo": "API de Pagamentos", "link": "#", "descricao": "Integração com gateways." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Backend", "Segurança"]
+  },
+  {
+    "id": 15,
+    "nome": "Olivia Dias",
+    "foto": "https://i.pravatar.cc/300?img=26",
+    "cargo": "Analista de RH",
+    "resumo": "Focada em T&D e clima organizacional.",
+    "localizacao": "Salvador/BA",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Gestão de Desempenho", "Pesquisa de Clima", "Excel"],
+    "softSkills": ["Empatia", "Escuta Ativa", "Mediação"],
+    "experiencias": [
+      { "empresa": "Varejo SA", "cargo": "Analista RH", "inicio": "2019", "fim": "Atual", "descricao": "Treinamentos corporativos." }
+    ],
+    "formacao": [{ "curso": "Recursos Humanos", "instituicao": "UFBA", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Educação Corporativa", "Psicologia"]
+  },
+  {
+    "id": 16,
+    "nome": "Pedro Henrique",
+    "foto": "https://i.pravatar.cc/300?img=60",
+    "cargo": "Full Stack Developer",
+    "resumo": "Do banco de dados ao frontend, resolvendo problemas.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "MongoDB", "GraphQL"],
+    "softSkills": ["Adaptabilidade", "Aprendizado Rápido", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Startup Z", "cargo": "Full Stack", "inicio": "2021", "fim": "Atual", "descricao": "MVP de novos produtos." }
+    ],
+    "formacao": [{ "curso": "Sistemas de Informação", "instituicao": "PUC-MG", "ano": "2019" }],
+    "projetos": [{ "titulo": "SaaS de Gestão", "link": "#", "descricao": "Plataforma completa para PMEs." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Startups", "Empreendedorismo"]
+  },
+  {
+    "id": 17,
+    "nome": "Rafaela Martins",
+    "foto": "https://i.pravatar.cc/300?img=28",
+    "cargo": "Social Media",
+    "resumo": "Criando comunidades engajadas nas redes sociais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Instagram", "TikTok", "Copywriting", "Canva"],
+    "softSkills": ["Criatividade", "Bom Humor", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Moda Brand", "cargo": "Social Media", "inicio": "2020", "fim": "Atual", "descricao": "Gestão de influencers." }
+    ],
+    "formacao": [{ "curso": "Marketing", "instituicao": "Anhembi Morumbi", "ano": "2019" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Moda", "Tendências"]
+  },
+  {
+    "id": 18,
+    "nome": "Samuel Torres",
+    "foto": "https://i.pravatar.cc/300?img=59",
+    "cargo": "Analista de QA",
+    "resumo": "Garantindo a qualidade do software através de automação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Selenium", "Cypress", "Jest", "Jenkins"],
+    "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico", "Organização"],
+    "experiencias": [
+      { "empresa": "Soft Quality", "cargo": "QA Automation", "inicio": "2021", "fim": "Atual", "descricao": "Testes regressivos." }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "Positivo", "ano": "2018" }],
+    "projetos": [{ "titulo": "Suite de Testes", "link": "#", "descricao": "Automação de testes E2E." }],
+    "certificacoes": ["CTFL"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Técnico" }],
+    "areaInteresses": ["Qualidade", "DevOps"]
+  },
+  {
+    "id": 19,
+    "nome": "Tatiana Nunes",
+    "foto": "https://i.pravatar.cc/300?img=30",
+    "cargo": "Business Analyst",
+    "resumo": "Traduzindo necessidades de negócio em requisitos técnicos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": ["SQL", "UML", "BPMN", "Excel"],
+    "softSkills": ["Comunicação", "Análise", "Negociação"],
+    "experiencias": [
+      { "empresa": "Oil & Gas", "cargo": "BA Pleno", "inicio": "2018", "fim": "Atual", "descricao": "Sistemas de logística." }
+    ],
+    "formacao": [{ "curso": "Engenharia de Produção", "instituicao": "UFF", "ano": "2016" }],
+    "projetos": [],
+    "certificacoes": ["CBAP"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Processos", "Gestão"]
+  },
+  {
+    "id": 20,
+    "nome": "Vinicius Costa",
+    "foto": "https://i.pravatar.cc/300?img=55",
+    "cargo": "Desenvolvedor Java",
+    "resumo": "Especialista em Spring Boot e sistemas legados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "Hibernate", "Oracle"],
+    "softSkills": ["Resiliência", "Foco", "Comprometimento"],
+    "experiencias": [
+      { "empresa": "Banco Digital", "cargo": "Java Senior", "inicio": "2015", "fim": "Atual", "descricao": "Core bancário." }
+    ],
+    "formacao": [{ "curso": "Tecnologia da Informação", "instituicao": "FIAP", "ano": "2014" }],
+    "projetos": [],
+    "certificacoes": ["OCJP"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Backend", "Finanças"]
+  },
+  {
+    "id": 21,
+    "nome": "Amanda Pires",
+    "foto": "https://i.pravatar.cc/300?img=32",
+    "cargo": "UX Researcher",
+    "resumo": "Entendendo o usuário através de dados e entrevistas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Testes de Usabilidade", "Entrevistas", "Hotjar", "Analytics"],
+    "softSkills": ["Empatia", "Escuta Ativa", "Análise"],
+    "experiencias": [
+      { "empresa": "E-com Gigante", "cargo": "Researcher", "inicio": "2020", "fim": "Atual", "descricao": "Jornada do cliente." }
+    ],
+    "formacao": [{ "curso": "Ciências Sociais", "instituicao": "USP", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Comportamento Humano", "Psicologia"]
+  },
+  {
+    "id": 22,
+    "nome": "Breno Macedo",
+    "foto": "https://i.pravatar.cc/300?img=52",
+    "cargo": "Engenheiro de Machine Learning",
+    "resumo": "Colocando modelos de IA em produção.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "TensorFlow", "Docker", "MLOps"],
+    "softSkills": ["Resolução de Problemas", "Inovação", "Estudo Contínuo"],
+    "experiencias": [
+      { "empresa": "AI Startup", "cargo": "ML Engineer", "inicio": "2021", "fim": "Atual", "descricao": "Visão computacional." }
+    ],
+    "formacao": [{ "curso": "Engenharia Elétrica", "instituicao": "UFSC", "ano": "2019" }],
+    "projetos": [{ "titulo": "Reconhecimento Facial", "link": "#", "descricao": "Sistema de acesso." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["IA", "Robótica"]
+  },
+  {
+    "id": 23,
+    "nome": "Camila Ribeiro",
+    "foto": "https://i.pravatar.cc/300?img=34",
+    "cargo": "Coordenadora de Marketing",
+    "resumo": "Gerenciando campanhas 360 e branding.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Gestão de Projetos", "Branding", "Mídia Paga", "Hubspot"],
+    "softSkills": ["Liderança", "Criatividade", "Planejamento"],
+    "experiencias": [
+      { "empresa": "Retail Group", "cargo": "Coordenadora", "inicio": "2018", "fim": "Atual", "descricao": "Campanhas nacionais." }
+    ],
+    "formacao": [{ "curso": "Marketing", "instituicao": "PUC-RS", "ano": "2015" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Gestão", "Marcas"]
+  },
+  {
+    "id": 24,
+    "nome": "Diego Fernandes",
+    "foto": "https://i.pravatar.cc/300?img=51",
+    "cargo": "Desenvolvedor PHP",
+    "resumo": "Mantendo sistemas legados e criando novas features com Laravel.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["PHP", "Laravel", "MySQL", "Vue.js"],
+    "softSkills": ["Comprometimento", "Humor", "Trabalho em Equipe"],
+    "experiencias": [
+      { "empresa": "Web Soluções", "cargo": "PHP Dev", "inicio": "2017", "fim": "Atual", "descricao": "Sistemas de gestão." }
+    ],
+    "formacao": [{ "curso": "Redes", "instituicao": "Estácio", "ano": "2016" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Web", "Backend"]
+  },
+  {
+    "id": 25,
+    "nome": "Elisa Duarte",
+    "foto": "https://i.pravatar.cc/300?img=35",
+    "cargo": "Product Owner",
+    "resumo": "Maximizando o valor do produto para o cliente final.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Backlog", "User Stories", "Scrum", "Roadmap"],
+    "softSkills": ["Priorização", "Comunicação", "Negociação"],
+    "experiencias": [
+      { "empresa": "Tech Health", "cargo": "PO", "inicio": "2020", "fim": "Atual", "descricao": "App de telemedicina." }
+    ],
+    "formacao": [{ "curso": "Biomedicina", "instituicao": "Unifesp", "ano": "2014" }],
+    "projetos": [],
+    "certificacoes": ["CSPO"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Saúde", "Tecnologia"]
+  },
+  {
+    "id": 26,
+    "nome": "Fabio Junior",
+    "foto": "https://i.pravatar.cc/300?img=56",
+    "cargo": "Analista de Segurança",
+    "resumo": "Protegendo dados e infraestrutura contra ameaças.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Pentest", "Firewall", "SIEM", "LGPD"],
+    "softSkills": ["Ética", "Atenção aos Detalhes", "Sigilo"],
+    "experiencias": [
+      { "empresa": "SecCorp", "cargo": "Analista InfoSec", "inicio": "2019", "fim": "Atual", "descricao": "Monitoramento de redes." }
+    ],
+    "formacao": [{ "curso": "Segurança da Informação", "instituicao": "FATEC", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": ["CompTIA Security+"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Técnico" }],
+    "areaInteresses": ["Cybersecurity", "Hacking Ético"]
+  },
+  {
+    "id": 27,
+    "nome": "Giovanna Lins",
+    "foto": "https://i.pravatar.cc/300?img=36",
+    "cargo": "Diretora de Arte",
+    "resumo": "Conceituando campanhas visuais criativas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Photoshop", "Illustrator", "Direção Criativa", "Branding"],
+    "softSkills": ["Criatividade", "Liderança", "Visão Estética"],
+    "experiencias": [
+      { "empresa": "Agência Publicidade", "cargo": "Diretora de Arte", "inicio": "2016", "fim": "Atual", "descricao": "Campanhas TV e Digital." }
+    ],
+    "formacao": [{ "curso": "Design Visual", "instituicao": "ESDI", "ano": "2014" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Francês", "nivel": "Básico" }],
+    "areaInteresses": ["Artes", "Cinema"]
+  },
+  {
+    "id": 28,
+    "nome": "Heitor Villa",
+    "foto": "https://i.pravatar.cc/300?img=65",
+    "cargo": "Desenvolvedor C# / .NET",
+    "resumo": "Especialista no ecossistema Microsoft.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C#", ".NET Core", "Azure", "SQL Server"],
+    "softSkills": ["Organização", "Lógica", "Pragmatismo"],
+    "experiencias": [
+      { "empresa": "Enterprise Solutions", "cargo": "Senior .NET", "inicio": "2018", "fim": "Atual", "descricao": "Sistemas corporativos." }
+    ],
+    "formacao": [{ "curso": "Análise de Sistemas", "instituicao": "PUC-PR", "ano": "2015" }],
+    "projetos": [],
+    "certificacoes": ["Microsoft Certified Professional"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Técnico" }],
+    "areaInteresses": ["Microsoft", "Cloud"]
+  },
+  {
+    "id": 29,
+    "nome": "Igor Machado",
+    "foto": "https://i.pravatar.cc/300?img=68",
+    "cargo": "Analista de Suporte",
+    "resumo": "Resolvendo problemas de usuários com rapidez e eficácia.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Windows", "Linux", "Active Directory", "Service Desk"],
+    "softSkills": ["Paciência", "Comunicação", "Empatia"],
+    "experiencias": [
+      { "empresa": "IT Services", "cargo": "Suporte N2", "inicio": "2020", "fim": "Atual", "descricao": "Atendimento ao cliente." }
+    ],
+    "formacao": [{ "curso": "Redes", "instituicao": "Senac", "ano": "2019" }],
+    "projetos": [],
+    "certificacoes": ["ITIL Foundation"],
+    "idiomas": [],
+    "areaInteresses": ["Infraestrutura", "Atendimento"]
+  },
+  {
+    "id": 30,
+    "nome": "Julia Campos",
+    "foto": "https://i.pravatar.cc/300?img=38",
+    "cargo": "Growth Hacker",
+    "resumo": "Experimentação rápida para crescimento exponencial.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["A/B Testing", "SEO", "CRO", "Data Analysis"],
+    "softSkills": ["Ousadia", "Analítico", "Resiliência"],
+    "experiencias": [
+      { "empresa": "Startup Y", "cargo": "Head of Growth", "inicio": "2021", "fim": "Atual", "descricao": "Scale-up de usuários." }
+    ],
+    "formacao": [{ "curso": "Marketing", "instituicao": "Una", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Startups", "Métricas"]
+  },
+  {
+    "id": 31,
+    "nome": "Kleber Antunes",
+    "foto": "https://i.pravatar.cc/300?img=11",
+    "cargo": "DBA",
+    "resumo": "Administração e otimização de bancos de dados relacionais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Oracle", "SQL Server", "Tuning", "Backup"],
+    "softSkills": ["Responsabilidade", "Atenção aos Detalhes", "Disponibilidade"],
+    "experiencias": [
+      { "empresa": "Banco Tradicional", "cargo": "DBA Senior", "inicio": "2010", "fim": "Atual", "descricao": "Alta disponibilidade." }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "Mackenzie", "ano": "2008" }],
+    "projetos": [],
+    "certificacoes": ["Oracle OCP"],
+    "idiomas": [],
+    "areaInteresses": ["Bancos de Dados", "Performance"]
+  },
+  {
+    "id": 32,
+    "nome": "Larissa Nobre",
+    "foto": "https://i.pravatar.cc/300?img=40",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Entregando projetos no prazo e orçamento.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": ["PMBOK", "MS Project", "Jira", "Risco"],
+    "softSkills": ["Liderança", "Organização", "Comunicação"],
+    "experiencias": [
+      { "empresa": "Construtora", "cargo": "GP", "inicio": "2017", "fim": "Atual", "descricao": "Projetos de infra." }
+    ],
+    "formacao": [{ "curso": "Engenharia Civil", "instituicao": "UFRJ", "ano": "2015" }],
+    "projetos": [],
+    "certificacoes": ["PMP"],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Avançado" }],
+    "areaInteresses": ["Gestão", "Obras"]
+  },
+  {
+    "id": 33,
+    "nome": "Marcos Vinicius",
+    "foto": "https://i.pravatar.cc/300?img=69",
+    "cargo": "Desenvolvedor Ruby",
+    "resumo": "Apaixonado pela elegância do Ruby on Rails.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Ruby", "Rails", "PostgreSQL", "Sidekiq"],
+    "softSkills": ["Simplicidade", "Comunicação", "Comunidade"],
+    "experiencias": [
+      { "empresa": "E-commerce", "cargo": "Dev RoR", "inicio": "2019", "fim": "Atual", "descricao": "Marketplace." }
+    ],
+    "formacao": [{ "curso": "Sistemas de Informação", "instituicao": "USP", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Open Source", "Ruby"]
+  },
+  {
+    "id": 34,
+    "nome": "Natalia Souza",
+    "foto": "https://i.pravatar.cc/300?img=41",
+    "cargo": "Designer de Interiores",
+    "resumo": "Transformando espaços em experiências.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": ["AutoCAD", "SketchUp", "V-Ray", "Decoração"],
+    "softSkills": ["Criatividade", "Estética", "Atendimento"],
+    "experiencias": [
+      { "empresa": "Escritório Arq", "cargo": "Designer", "inicio": "2020", "fim": "Atual", "descricao": "Projetos residenciais." }
+    ],
+    "formacao": [{ "curso": "Design de Interiores", "instituicao": "Belas Artes", "ano": "2019" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Arquitetura", "Decoração"]
+  },
+  {
+    "id": 35,
+    "nome": "Otavio Mesquita",
+    "foto": "https://i.pravatar.cc/300?img=13",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Focado em sistemas embarcados e C++.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C++", "Linux Embarcado", "RTOS", "IoT"],
+    "softSkills": ["Resolução de Problemas", "Lógica", "Precisão"],
+    "experiencias": [
+      { "empresa": "AutoTech", "cargo": "Engenheiro", "inicio": "2018", "fim": "Atual", "descricao": "Sistemas automotivos." }
+    ],
+    "formacao": [{ "curso": "Engenharia da Computação", "instituicao": "Unicamp", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Alemão", "nivel": "Intermediário" }],
+    "areaInteresses": ["Automotivo", "Hardware"]
+  },
+  {
+    "id": 36,
+    "nome": "Patricia Abravanel",
+    "foto": "https://i.pravatar.cc/300?img=42",
+    "cargo": "Jornalista",
+    "resumo": "Contadora de histórias e produtora de conteúdo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Redação", "Edição de Vídeo", "Entrevista", "WordPress"],
+    "softSkills": ["Comunicação", "Curiosidade", "Ética"],
+    "experiencias": [
+      { "empresa": "Portal de Notícias", "cargo": "Repórter", "inicio": "2019", "fim": "Atual", "descricao": "Cobertura de tecnologia." }
+    ],
+    "formacao": [{ "curso": "Jornalismo", "instituicao": "Cásper Líbero", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Mídia", "Comunicação"]
+  },
+  {
+    "id": 37,
+    "nome": "Quintino Bocaiuva",
+    "foto": "https://i.pravatar.cc/300?img=12",
+    "cargo": "Consultor SAP",
+    "resumo": "Especialista em módulos FI/CO.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["SAP ERP", "ABAP", "Contabilidade", "Finanças"],
+    "softSkills": ["Consultoria", "Análise de Negócio", "Viagens"],
+    "experiencias": [
+      { "empresa": "Consultoria Global", "cargo": "Consultor Senior", "inicio": "2015", "fim": "Atual", "descricao": "Implementação SAP." }
+    ],
+    "formacao": [{ "curso": "Contabilidade", "instituicao": "FEA-USP", "ano": "2013" }],
+    "projetos": [],
+    "certificacoes": ["SAP Certified"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["ERP", "Finanças"]
+  },
+  {
+    "id": 38,
+    "nome": "Renata Vasconcellos",
+    "foto": "https://i.pravatar.cc/300?img=43",
+    "cargo": "Gerente de RH",
+    "resumo": "Estratégia de pessoas para o crescimento do negócio.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Planejamento Estratégico", "Remuneração", "Legislação", "Liderança"],
+    "softSkills": ["Visão de Negócio", "Liderança", "Negociação"],
+    "experiencias": [
+      { "empresa": "Multinacional", "cargo": "Gerente RH", "inicio": "2016", "fim": "Atual", "descricao": "Gestão de 2000 vidas." }
+    ],
+    "formacao": [{ "curso": "Administração", "instituicao": "FGV", "ano": "2010" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Gestão de Pessoas", "Estratégia"]
+  },
+  {
+    "id": 39,
+    "nome": "Silvio Santos",
+    "foto": "https://i.pravatar.cc/300?img=68",
+    "cargo": "Vendedor Sênior",
+    "resumo": "Especialista em vendas B2B complexas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["CRM", "Spin Selling", "Prospecção", "Fechamento"],
+    "softSkills": ["Persuasão", "Resiliência", "Comunicação"],
+    "experiencias": [
+      { "empresa": "SaaS Corp", "cargo": "Account Executive", "inicio": "2018", "fim": "Atual", "descricao": "Vendas Enterprise." }
+    ],
+    "formacao": [{ "curso": "Gestão Comercial", "instituicao": "Anhembi", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Avançado" }],
+    "areaInteresses": ["Vendas", "Negócios"]
+  },
+  {
+    "id": 40,
+    "nome": "Thiago Silva",
+    "foto": "https://i.pravatar.cc/300?img=8",
+    "cargo": "Game Developer",
+    "resumo": "Criando mundos virtuais com Unity e Unreal.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Unity", "C#", "Modelagem 3D", "Game Design"],
+    "softSkills": ["Criatividade", "Paixão", "Trabalho em Equipe"],
+    "experiencias": [
+      { "empresa": "Indie Studio", "cargo": "Game Dev", "inicio": "2020", "fim": "Atual", "descricao": "Jogos mobile." }
+    ],
+    "formacao": [{ "curso": "Jogos Digitais", "instituicao": "Unicap", "ano": "2019" }],
+    "projetos": [{ "titulo": "Jogo de Plataforma", "link": "#", "descricao": "Publicado na Steam." }],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Games", "VR"]
+  },
+  {
+    "id": 41,
+    "nome": "Ursula Andress",
+    "foto": "https://i.pravatar.cc/300?img=44",
+    "cargo": "Tradutora",
+    "resumo": "Conectando culturas através da linguagem.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Tradução", "Localização", "Revisão", "Legendagem"],
+    "softSkills": ["Cultura Geral", "Escrita", "Atenção"],
+    "experiencias": [
+      { "empresa": "Freelancer", "cargo": "Tradutora", "inicio": "2015", "fim": "Atual", "descricao": "Livros e artigos." }
+    ],
+    "formacao": [{ "curso": "Letras", "instituicao": "UFSC", "ano": "2014" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Alemão", "nivel": "Nativo" }, { "idioma": "Português", "nivel": "Fluente" }],
+    "areaInteresses": ["Literatura", "Línguas"]
+  },
+  {
+    "id": 42,
+    "nome": "Victor Hugo",
+    "foto": "https://i.pravatar.cc/300?img=3",
+    "cargo": "Escritor Técnico",
+    "resumo": "Documentando APIs e softwares complexos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Markdown", "Git", "API Docs", "Inglês Técnico"],
+    "softSkills": ["Didática", "Escrita Clara", "Investigação"],
+    "experiencias": [
+      { "empresa": "Tech Giant", "cargo": "Technical Writer", "inicio": "2021", "fim": "Atual", "descricao": "Portal de desenvolvedores." }
+    ],
+    "formacao": [{ "curso": "Letras / TI", "instituicao": "USP", "ano": "2019" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Educação", "Tecnologia"]
+  },
+  {
+    "id": 43,
+    "nome": "Wagner Love",
+    "foto": "https://i.pravatar.cc/300?img=4",
+    "cargo": "Personal Trainer",
+    "resumo": "Focado em saúde e bem-estar corporativo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Fisiologia", "Treinamento", "Nutrição", "Ginástica Laboral"],
+    "softSkills": ["Motivação", "Energia", "Empatia"],
+    "experiencias": [
+      { "empresa": "Academia Corp", "cargo": "Instrutor", "inicio": "2018", "fim": "Atual", "descricao": "Programas de saúde." }
+    ],
+    "formacao": [{ "curso": "Educação Física", "instituicao": "UFRJ", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Esporte", "Saúde"]
+  },
+  {
+    "id": 44,
+    "nome": "Xuxa Meneghel",
+    "foto": "https://i.pravatar.cc/300?img=45",
+    "cargo": "Apresentadora",
+    "resumo": "Comunicadora com experiência em grandes públicos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Oratória", "TV", "Mídia", "Eventos"],
+    "softSkills": ["Carisma", "Liderança", "Espontaneidade"],
+    "experiencias": [
+      { "empresa": "TV Channel", "cargo": "Host", "inicio": "1985", "fim": "Atual", "descricao": "Programas de auditório." }
+    ],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Espanhol", "nivel": "Fluente" }],
+    "areaInteresses": ["Entretenimento", "Crianças"]
+  },
+  {
+    "id": 45,
+    "nome": "Yuri Gagarin",
+    "foto": "https://i.pravatar.cc/300?img=11",
+    "cargo": "Engenheiro Aeroespacial",
+    "resumo": "Visando as estrelas e além.",
+    "localizacao": "São José dos Campos/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Propulsão", "Aerodinâmica", "Física", "Matemática"],
+    "softSkills": ["Coragem", "Frieza", "Disciplina"],
+    "experiencias": [
+      { "empresa": "Embraer", "cargo": "Engenheiro", "inicio": "2020", "fim": "Atual", "descricao": "Projetos de aeronaves." }
+    ],
+    "formacao": [{ "curso": "Engenharia Aeronáutica", "instituicao": "ITA", "ano": "2019" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Russo", "nivel": "Básico" }, { "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Espaço", "Aviação"]
+  },
+  {
+    "id": 46,
+    "nome": "Zelia Duncan",
+    "foto": "https://i.pravatar.cc/300?img=46",
+    "cargo": "Produtora Musical",
+    "resumo": "Gestão de talentos e produção fonográfica.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Pro Tools", "Mixagem", "Direitos Autorais", "Eventos"],
+    "softSkills": ["Sensibilidade", "Ouvido Absoluto", "Negociação"],
+    "experiencias": [
+      { "empresa": "Studio Rec", "cargo": "Produtora", "inicio": "2010", "fim": "Atual", "descricao": "Álbuns premiados." }
+    ],
+    "formacao": [{ "curso": "Música", "instituicao": "Unicamp", "ano": "2008" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Música", "Arte"]
+  },
+  {
+    "id": 47,
+    "nome": "Alice Wonderland",
+    "foto": "https://i.pravatar.cc/300?img=47",
+    "cargo": "UX Writer",
+    "resumo": "Criando diálogos claros e humanos em interfaces.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Microcopy", "Content Strategy", "Figma", "Acessibilidade"],
+    "softSkills": ["Empatia", "Criatividade", "Colaboração"],
+    "experiencias": [
+      { "empresa": "Fintech A", "cargo": "UX Writer", "inicio": "2021", "fim": "Atual", "descricao": "Guia de tom e voz." }
+    ],
+    "formacao": [{ "curso": "Letras", "instituicao": "USP", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["UX", "Escrita"]
+  },
+  {
+    "id": 48,
+    "nome": "Bob Marley",
+    "foto": "https://i.pravatar.cc/300?img=7",
+    "cargo": "Desenvolvedor Blockchain",
+    "resumo": "Descentralizando a web, um bloco de cada vez.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Solidity", "Ethereum", "Smart Contracts", "Web3"],
+    "softSkills": ["Visão de Futuro", "Inovação", "Ética"],
+    "experiencias": [
+      { "empresa": "Crypto Startup", "cargo": "Blockchain Dev", "inicio": "2021", "fim": "Atual", "descricao": "DeFi protocols." }
+    ],
+    "formacao": [{ "curso": "Ciência da Computação", "instituicao": "UFSC", "ano": "2020" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Cripto", "Economia"]
+  },
+  {
+    "id": 49,
+    "nome": "Charlie Chaplin",
+    "foto": "https://i.pravatar.cc/300?img=58",
+    "cargo": "Motion Designer",
+    "resumo": "Dando vida a interfaces e vídeos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["After Effects", "Cinema 4D", "Premiere", "Animação"],
+    "softSkills": ["Timing", "Humor", "Narrativa"],
+    "experiencias": [
+      { "empresa": "Produtora Vídeo", "cargo": "Motion", "inicio": "2019", "fim": "Atual", "descricao": "Comerciais de TV." }
+    ],
+    "formacao": [{ "curso": "Cinema", "instituicao": "FAAP", "ano": "2018" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": ["Animação", "Cinema"]
+  },
+  {
+    "id": 50,
+    "nome": "Diana Prince",
+    "foto": "https://i.pravatar.cc/300?img=48",
+    "cargo": "Diretora de Operações",
+    "resumo": "Otimizando processos para máxima eficiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Gestão de Processos", "KPIs", "Logística", "Orçamento"],
+    "softSkills": ["Liderança", "Resolução de Conflitos", "Estratégia"],
+    "experiencias": [
+      { "empresa": "Logística Ltda", "cargo": "COO", "inicio": "2018", "fim": "Atual", "descricao": "Gestão nacional." }
+    ],
+    "formacao": [{ "curso": "Engenharia de Produção", "instituicao": "UnB", "ano": "2010" }],
+    "projetos": [],
+    "certificacoes": ["Six Sigma Black Belt"],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }, { "idioma": "Francês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Gestão", "Eficiência"]
+  },
+  {
+    "id": 51,
+    "nome": "Elon Tusk",
+    "foto": "https://i.pravatar.cc/300?img=14",
+    "cargo": "Empreendedor",
+    "resumo": "Criando o futuro hoje.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Visão de Produto", "Fundraising", "Gestão", "Inovação"],
+    "softSkills": ["Risco", "Visão", "Persistência"],
+    "experiencias": [
+      { "empresa": "Várias Startups", "cargo": "Founder", "inicio": "2010", "fim": "Atual", "descricao": "Saídas e IPOs." }
+    ],
+    "formacao": [{ "curso": "Física", "instituicao": "USP", "ano": "2008" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["Espaço", "Carros Elétricos"]
+  },
+  {
+    "id": 52,
+    "nome": "Fiona Shrek",
+    "foto": "https://i.pravatar.cc/300?img=49",
+    "cargo": "Gestora Ambiental",
+    "resumo": "Sustentabilidade e impacto positivo.",
+    "localizacao": "Manaus/AM",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["ISO 14001", "Licenciamento", "ESG", "Biologia"],
+    "softSkills": ["Consciência", "Educação", "Liderança"],
+    "experiencias": [
+      { "empresa": "ONG Verde", "cargo": "Coordenadora", "inicio": "2015", "fim": "Atual", "descricao": "Projetos na Amazônia." }
+    ],
+    "formacao": [{ "curso": "Biologia", "instituicao": "UFAM", "ano": "2013" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Avançado" }],
+    "areaInteresses": ["Meio Ambiente", "ESG"]
+  },
+  {
+    "id": 53,
+    "nome": "Goku Son",
+    "foto": "https://i.pravatar.cc/300?img=61",
+    "cargo": "Personal Fighter",
+    "resumo": "Superando limites sempre.",
+    "localizacao": "São Paulo/SP",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Artes Marciais", "Disciplina", "Foco", "Resistência"],
+    "softSkills": ["Persistência", "Otimismo", "Lealdade"],
+    "experiencias": [
+      { "empresa": "Dojo Z", "cargo": "Mestre", "inicio": "2000", "fim": "Atual", "descricao": "Treinamento de campeões." }
+    ],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Japonês", "nivel": "Fluente" }],
+    "areaInteresses": ["Lutas", "Comida"]
+  },
+  {
+    "id": 54,
+    "nome": "Hermione Granger",
+    "foto": "https://i.pravatar.cc/300?img=50",
+    "cargo": "Pesquisadora",
+    "resumo": "Buscando conhecimento em todas as fontes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Pesquisa Acadêmica", "Escrita", "Análise de Dados", "Lógica"],
+    "softSkills": ["Inteligência", "Organização", "Dedicação"],
+    "experiencias": [
+      { "empresa": "Instituto Magia", "cargo": "Pesquisadora Chefe", "inicio": "2018", "fim": "Atual", "descricao": "Novas descobertas." }
+    ],
+    "formacao": [{ "curso": "História", "instituicao": "USP", "ano": "2017" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }, { "idioma": "Latim", "nivel": "Avançado" }],
+    "areaInteresses": ["Livros", "História"]
+  },
+  {
+    "id": 55,
+    "nome": "Indiana Jones",
+    "foto": "https://i.pravatar.cc/300?img=62",
+    "cargo": "Arqueólogo",
+    "resumo": "Explorando o passado para entender o futuro.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": ["História", "Escavação", "Análise de Artefatos", "Sobrevivência"],
+    "softSkills": ["Coragem", "Curiosidade", "Improviso"],
+    "experiencias": [
+      { "empresa": "Museu Nacional", "cargo": "Curador", "inicio": "2010", "fim": "Atual", "descricao": "Exposições." }
+    ],
+    "formacao": [{ "curso": "Arqueologia", "instituicao": "UFPE", "ano": "2005" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Fluente" }],
+    "areaInteresses": ["História", "Viagens"]
+  },
+  {
+    "id": 56,
+    "nome": "Jack Sparrow",
+    "foto": "https://i.pravatar.cc/300?img=63",
+    "cargo": "Capitão",
+    "resumo": "Navegando pelos mares da incerteza.",
+    "localizacao": "Salvador/BA",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Navegação", "Gestão de Crise", "Liderança", "Negociação"],
+    "softSkills": ["Carisma", "Improviso", "Liberdade"],
+    "experiencias": [
+      { "empresa": "Pérola Negra", "cargo": "CEO", "inicio": "2000", "fim": "Atual", "descricao": "Importação e exportação." }
+    ],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Nativo" }],
+    "areaInteresses": ["Mar", "Rum"]
+  },
+  {
+    "id": 57,
+    "nome": "Katniss Everdeen",
+    "foto": "https://i.pravatar.cc/300?img=31",
+    "cargo": "Consultora de Risco",
+    "resumo": "Sobrevivendo e prosperando em ambientes hostis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Análise de Risco", "Estratégia", "Sobrevivência", "Liderança"],
+    "softSkills": ["Resiliência", "Coragem", "Inspiradora"],
+    "experiencias": [
+      { "empresa": "Consultoria Jogos", "cargo": "Consultora", "inicio": "2015", "fim": "Atual", "descricao": "Gestão de crise." }
+    ],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+    "areaInteresses": ["Justiça", "Família"]
+  },
+  {
+    "id": 58,
+    "nome": "Lara Croft",
+    "foto": "https://i.pravatar.cc/300?img=29",
+    "cargo": "Exploradora",
+    "resumo": "Recuperando ativos valiosos em locais remotos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Arqueologia", "Combate", "Resolução de Puzzles", "Idiomas"],
+    "softSkills": ["Determinação", "Inteligência", "Coragem"],
+    "experiencias": [
+      { "empresa": "Croft Holdings", "cargo": "Herdeira", "inicio": "2010", "fim": "Atual", "descricao": "Gestão de patrimônio." }
+    ],
+    "formacao": [{ "curso": "Arqueologia", "instituicao": "Oxford", "ano": "2009" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Inglês", "nivel": "Nativo" }, { "idioma": "Francês", "nivel": "Fluente" }],
+    "areaInteresses": ["Aventura", "Mistérios"]
+  },
+  {
+    "id": 59,
+    "nome": "Mario Bros",
+    "foto": "https://i.pravatar.cc/300?img=66",
+    "cargo": "Encanador",
+    "resumo": "Soluções hidráulicas e resgate de princesas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Hidráulica", "Salto", "Karts", "Cogumelos"],
+    "softSkills": ["Heroísmo", "Persistência", "Lealdade"],
+    "experiencias": [
+      { "empresa": "Mushroom Kingdom", "cargo": "Herói", "inicio": "1985", "fim": "Atual", "descricao": "Defesa do reino." }
+    ],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Italiano", "nivel": "Nativo" }],
+    "areaInteresses": ["Canos", "Princesas"]
+  },
+  {
+    "id": 60,
+    "nome": "Naruto Uzumaki",
+    "foto": "https://i.pravatar.cc/300?img=67",
+    "cargo": "CEO (Hokage)",
+    "resumo": "Liderando a vila com determinação e ninjutsu.",
+    "localizacao": "Liberdade/SP",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Gestão de Vila", "Clonagem", "Diplomacia", "Combate"],
+    "softSkills": ["Liderança", "Nunca Desistir", "Amizade"],
+    "experiencias": [
+      { "empresa": "Konoha", "cargo": "Hokage", "inicio": "2015", "fim": "Atual", "descricao": "Gestão municipal." }
+    ],
+    "formacao": [{ "curso": "Academia Ninja", "instituicao": "Konoha", "ano": "2005" }],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [{ "idioma": "Japonês", "nivel": "Fluente" }],
+    "areaInteresses": ["Lamen", "Paz Mundial"]
+  }
+]
