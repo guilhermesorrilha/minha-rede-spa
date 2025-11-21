@@ -15,3 +15,12 @@ Este projeto foi desenvolvido para praticar conceitos de **React** e estilizaç�
 - **Responsividade:** Layout adaptável para celular e computador.
 
 ---
+
+## 🛠️ Tecnologias
+
+- **React** (Vite)
+- **Tailwind CSS**
+- **JavaScript**
+- **HTML5**
+
+---
